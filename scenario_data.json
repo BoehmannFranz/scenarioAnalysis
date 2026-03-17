@@ -1,0 +1,24 @@
+{
+  "id": "scenario_624a32df",
+  "name": "Szenario",
+  "vision_goal": "",
+  "outward_drift": 0.08,
+  "sensitivity": 1.0,
+  "phases": [],
+  "events": [
+    {
+      "id": "event_bf342f63",
+      "title": "1",
+      "phase_id": null,
+      "position": 32.51,
+      "description": "",
+      "intensity": 8.0,
+      "risk": 8.5,
+      "lanes": [
+        "v1"
+      ],
+      "metrics": {}
+    }
+  ],
+  "measures": []
+}
